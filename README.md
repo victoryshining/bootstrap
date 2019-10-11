@@ -20,6 +20,7 @@ github resource index 学习资源索引
 	- [minikube](https://github.com/kubernetes/minikube)
 - Other
 	- [JSON](https://github.com/burningtree/awesome-json)
+	- [Yaml](https://github.com/yaml/yaml)
 ## Course学习课程
 - [in28Minutes](https://github.com/victoryshining/learn)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
