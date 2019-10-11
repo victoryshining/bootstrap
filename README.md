@@ -25,6 +25,7 @@ github resource index 学习资源索引
 - Other
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [Yaml](https://github.com/yaml/yaml)
+	- [Regex](https://github.com/aloisdg/awesome-regex)
 ## Course学习课程
 - [in28Minutes](https://github.com/victoryshining/learn)
 - [Courses](https://github.com/prakhar1989/awesome-courses)
@@ -32,6 +33,7 @@ github resource index 学习资源索引
 	- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 	- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 	- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Lists](https://github.com/sindresorhus/awesome)
 - [Space](https://github.com/elburz/awesome-space)
 	- [Books and manuals](https://github.com/Hunter-Github/awesome-space-books)
 ## Poeple 人和团队
@@ -50,7 +52,7 @@ github resource index 学习资源索引
 	- [by @Kikobeats](https://github.com/Kikobeats/awesome-api)
 	- [by @toddmotto](https://github.com/toddmotto/public-apis)
 - [Code Formatters](https://github.com/rishirdua/awesome-code-formatters)
-## Process方法论
+## Theory 方法论
 - [Agile](https://github.com/lorabv/awesome-agile)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [DevOps](https://github.com/joubertredrat/awesome-devops)
@@ -264,19 +266,13 @@ github resource index 学习资源索引
 - [Lego](https://github.com/adius/awesome-lego)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [Linux resources](https://github.com/itech001/awesome-linux-resources)
-- Lists
-	- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
-	- [by @jnv](https://github.com/jnv/lists)
-	- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 - [Mac]
 	- [by @xyNNN](https://github.com/xyNNN/awesome-mac)
 	- [by @justin-j](https://github.com/justin-j/awesome-mac-apps)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [Matlab](https://github.com/mikecroucher/awesome-MATLAB)
 - [micro:bit](https://github.com/carlosperate/awesome-microbit)
-	
 - Newsletters
 	- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
 	- [by @webpro](https://github.com/webpro/awesome-newsletters)
@@ -286,7 +282,6 @@ github resource index 学习资源索引
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [Papers](https://github.com/papers-we-love/papers-we-love)
 - [Podcasts](https://github.com/Ghosh/awesome-podcasts)
-
 - [Pipelines](https://github.com/pditommaso/awesome-pipeline)	
 - Protocols
 	- [OSC](https://github.com/amir-arad/awesome-osc) (open sound control)
@@ -297,7 +292,6 @@ github resource index 学习资源索引
 	- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 
 
-- [Regex](https://github.com/aloisdg/awesome-regex)
 
 	
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
@@ -345,7 +339,6 @@ github resource index 学习资源索引
 	- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
-
 - [Wordpress](https://github.com/miziomon/awesome-wordpress)
 - [Workshops](https://github.com/therebelrobot/awesome-workshopper)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
