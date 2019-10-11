@@ -1,4 +1,4 @@
-# public cloud providers
+# Public cloud providers
 ## AWS
 ## Azure
 ## GCP
