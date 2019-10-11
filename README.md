@@ -18,6 +18,10 @@ github resource index 学习资源索引
 	- [Docker Dive](https://github.com/wagoodman/dive)
 - Kubernetes
 	- [minikube](https://github.com/kubernetes/minikube)
+- Cloud solutions
+	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+		- [Prometheus](https://github.com/roaldnefs/awesome-prometheus)
+		- [Prometheus alerting rules](https://github.com/samber/awesome-prometheus-alerts)	
 - Other
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [Yaml](https://github.com/yaml/yaml)
@@ -53,9 +57,13 @@ github resource index 学习资源索引
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 ## UX Design
 - [Documentation](https://github.com/PharkMillups/beautiful-docs)
+- [README](https://github.com/matiassingers/awesome-readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Images](https://github.com/heyalexej/awesome-images)
 	- [Image coloring](https://github.com/oskar-j/awesome-image-coloring)
+- GIF
+	- [by @Kikobeats](https://github.com/Kikobeats/awesome-gif)
+	- [by @Syskaw](https://github.com/Syskaw/awesome-gif)
 - Guides
 	- [by @narkoz](https://github.com/narkoz/guides)
 	- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
@@ -242,9 +250,7 @@ github resource index 学习资源索引
 	
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Games](https://github.com/leereilly/games)
-- GIF
-	- [by @Kikobeats](https://github.com/Kikobeats/awesome-gif)
-	- [by @Syskaw](https://github.com/Syskaw/awesome-gif)
+
 - [Gists](https://github.com/vsouza/awesome-gists)
 - [Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 - [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
@@ -271,9 +277,6 @@ github resource index 学习资源索引
 - [Matlab](https://github.com/mikecroucher/awesome-MATLAB)
 - [micro:bit](https://github.com/carlosperate/awesome-microbit)
 	
-- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
-	- [Prometheus](https://github.com/roaldnefs/awesome-prometheus)
-	- [Prometheus alerting rules](https://github.com/samber/awesome-prometheus-alerts)	
 - Newsletters
 	- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
 	- [by @webpro](https://github.com/webpro/awesome-newsletters)
@@ -293,7 +296,7 @@ github resource index 学习资源索引
 	- [by @blackout314](https://github.com/blackout314/awesome-raspberry-pi)
 	- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 
-- [README](https://github.com/matiassingers/awesome-readme)
+
 - [Regex](https://github.com/aloisdg/awesome-regex)
 
 	
