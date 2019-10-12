@@ -1,10 +1,6 @@
 {
     "DryRun": true,
     "ImageId": "ami-00c03f7f7f2ec15c3",
-    "KeyName": "mykey",
-    "SecurityGroups": [
-        "my-sg"
-    ],
     "InstanceType": "t2.micro",
     "Monitoring": {
         "Enabled": true
