@@ -5,3 +5,4 @@
 - [AWS Cli](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 ## AWS trial projects
 - [Trial Projects](https://aws.amazon.com/cn/getting-started/projects/)
+  - [Modern web applications](https://aws.amazon.com/cn/getting-started/projects/build-modern-app-fargate-lambda-dynamodb-python/)
