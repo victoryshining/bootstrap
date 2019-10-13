@@ -11,6 +11,7 @@
 - [Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 - [tomcat](http://tomcat.apache.org/)
   - [tomcat example](https://github.com/Ipanyiwen/Rise)
+  - [tomcat+mysql app](https://github.com/meirwah/spring-boot-tomcat-mysql-app)
 - Tools
   - [wget](https://developer.mozilla.org/en-US/docs/Learn)
   - [postman](https://www.getpostman.com/)
