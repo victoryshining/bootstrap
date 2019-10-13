@@ -9,3 +9,4 @@
   - [Mordern web applications- github](https://github.com/aws-samples/aws-modern-application-workshop)
 ## AWS examples
 - [Examples](https://github.com/aws-samples/)
+  -[wordpress on eb](https://github.com/aws-samples/eb-php-wordpress)
