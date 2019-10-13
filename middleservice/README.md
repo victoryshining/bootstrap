@@ -14,3 +14,5 @@
 - Tools
   - [wget](https://developer.mozilla.org/en-US/docs/Learn)
   - [postman](https://www.getpostman.com/)
+## Database
+- [mysql](https://www.mysql.com/downloads/)
