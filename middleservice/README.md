@@ -10,6 +10,6 @@
 - [Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 - [tomcat](http://tomcat.apache.org/)
   - [tomcat example](https://github.com/Ipanyiwen/Rise)
-- [toos]
+-  Tools
   - [wget](https://developer.mozilla.org/en-US/docs/Learn)
   - [postman](https://www.getpostman.com/)
