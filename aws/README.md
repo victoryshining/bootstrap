@@ -7,3 +7,5 @@
 - [Trial Projects](https://aws.amazon.com/cn/getting-started/projects/)
   - [Modern web applications](https://aws.amazon.com/cn/getting-started/projects/build-modern-app-fargate-lambda-dynamodb-python/)
   - [Mordern web applications- github](https://github.com/aws-samples/aws-modern-application-workshop)
+## AWS examples
+- [Examples](https://github.com/aws-samples/)
