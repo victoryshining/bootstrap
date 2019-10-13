@@ -5,6 +5,7 @@ github resource index 学习资源索引
 ## About Github
 - [Hello github](https://guides.github.com/activities/hello-world/)
 - [Git](https://github.com/dictcp/awesome-git)
+	- [Git chinese](https://git-scm.com/book/zh/v2)
 - [GitHub](https://github.com/Kikobeats/awesome-github)
 	- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
