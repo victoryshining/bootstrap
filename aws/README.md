@@ -8,7 +8,7 @@
 - [Trial Projects](https://aws.amazon.com/cn/getting-started/projects/)
   - [Modern web applications](https://aws.amazon.com/cn/getting-started/projects/build-modern-app-fargate-lambda-dynamodb-python/)
   - [Mordern web applications- github](https://github.com/aws-samples/aws-modern-application-workshop)
-## AWS pratcies
+## AWS practice
 - [Examples](https://github.com/aws-samples/)
   - [wordpress on eb](https://github.com/aws-samples/eb-php-wordpress)
   - [Jenkins Certified by Bitnami](https://aws.amazon.com/marketplace/pp/B00NNZUF3Q?qid=1571059618476&sr=0-41&ref_=srh_res_product_title) 
