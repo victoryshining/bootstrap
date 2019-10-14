@@ -10,6 +10,7 @@ github resource index 学习资源索引
 	- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
 	- [Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
+	- [md file syntax](https://guides.github.com/features/mastering-markdown/)
 - [Chinese guide](https://blog.csdn.net/qq_35246620/article/details/66973794)
 ## Cloud 云计算
 - AWS
