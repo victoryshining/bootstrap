@@ -13,6 +13,7 @@
   - [tomcat example](https://github.com/Ipanyiwen/Rise)
   - [tomcat+mysql app](https://github.com/meirwah/spring-boot-tomcat-mysql-app)
   - [static web site](https://github.com/semmypurewal/LearningWebAppDev)
+  - [todo list example](https://github.com/avedensky/ToDoList)
 - Tools
   - [wget](https://developer.mozilla.org/en-US/docs/Learn)
   - [postman](https://www.getpostman.com/)
