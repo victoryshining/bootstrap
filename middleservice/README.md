@@ -21,3 +21,6 @@
 - [mysql](https://www.mysql.com/downloads/)
 - [mongoDB](https://github.com/ramnes/awesome-mongodb)
   - [shell commands](https://docs.mongodb.com/manual/reference/mongo-shell/)
+
+## System Design
+- [Library Syetem](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
