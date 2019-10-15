@@ -20,3 +20,4 @@
 ## Database
 - [mysql](https://www.mysql.com/downloads/)
 - [mongoDB](https://github.com/ramnes/awesome-mongodb)
+  - [shell commands](https://docs.mongodb.com/manual/reference/method/)
