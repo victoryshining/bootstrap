@@ -21,3 +21,6 @@ systemctl start tomcat
 
 yum install -y tomcat-webapps tomcat-admin-webapps 
 
+
+yum repolist
+yum update
