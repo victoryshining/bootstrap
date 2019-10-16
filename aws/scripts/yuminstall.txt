@@ -1,0 +1,22 @@
+## example for installing tomcat
+yum -y install tomcat
+rpm -q tomcat
+Tomcat默认安装路径/usr/share/tomcat/
+
+[ec2-user@ip-172-31-94-186 ~]$ ls -l /usr/share/tomcat/
+总用量 0
+drwxr-xr-x 2 root root   76 10月 16 07:44 bin
+lrwxrwxrwx 1 root tomcat 11 10月 16 07:44 conf -> /etc/tomcat
+lrwxrwxrwx 1 root tomcat 22 10月 16 07:44 lib -> /usr/share/java/tomcat
+lrwxrwxrwx 1 root tomcat 15 10月 16 07:44 logs -> /var/log/tomcat
+lrwxrwxrwx 1 root tomcat 22 10月 16 07:44 temp -> /var/cache/tomcat/temp
+lrwxrwxrwx 1 root tomcat 23 10月 16 07:44 webapps -> /var/lib/tomcat/webapps
+lrwxrwxrwx 1 root tomcat 22 10月 16 07:44 work -> /var/cache/tomcat/work
+
+
+export CATALINA_BASE=/usr/share/tomcat/
+export CATALINA_HOME=/usr/share/tomcat/
+systemctl status tomcat.service
+systemctl start tomcat
+
+
