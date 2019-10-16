@@ -18,3 +18,4 @@
   - [Share your thoughts on eb(with db)](https://github.com/aws-samples/eb-demo-php-simple-app)
   ## AWS develop
   - [Java SDK](https://docs.aws.amazon.com/zh_cn/sdk-for-java/v1/developer-guide/getting-started.html)
+    - [Toolkit Eclipse](https://github.com/aws/aws-toolkit-eclipse/releases)
