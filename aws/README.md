@@ -20,6 +20,7 @@
 ## AWS develop
   - [Java SDK](https://docs.aws.amazon.com/zh_cn/sdk-for-java/v1/developer-guide/getting-started.html)
     - [Toolkit Eclipse](https://github.com/aws/aws-toolkit-eclipse/releases)
+    - [SDK java doc](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
 ## VPC
   - [IP address](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
     - [caculate CIDR](http://www.subnet-calculator.com/cidr.php)
