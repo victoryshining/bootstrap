@@ -19,4 +19,5 @@ export CATALINA_HOME=/usr/share/tomcat/
 systemctl status tomcat.service
 systemctl start tomcat
 
+yum install -y tomcat-webapps tomcat-admin-webapps 
 
