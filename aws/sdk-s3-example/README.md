@@ -16,4 +16,4 @@ aws_secret_access_key = YOUR_SECRET_ACCESS_KEY
 
 `mvn clean compile exec:java`
 
-## SDK EC2 example
+
