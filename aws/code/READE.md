@@ -1,6 +1,7 @@
 ## SDK S3 example
 下载示例项目
-*git clone https://github.com/awslabs/aws-java-sample.git*
+
+'''git clone https://github.com/awslabs/aws-java-sample.git'''
 
 配置访问密钥
 
