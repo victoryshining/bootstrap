@@ -1,6 +1,6 @@
 ## 搭建SS服务器
 1. 选择centos作为image
-2. 安装
+2. 安装服务
 ```
 sudo pip install shadowsocks
 ssserver -h
@@ -20,3 +20,5 @@ sudo vi /etc/shadowsocks/config.json
 
 sudo ssserver -c /etc/shadowsocks/config.json -d start
 ```
+3. 安装客户端
+https://github.com/shadowsocks/shadowsocks-windows/releases
