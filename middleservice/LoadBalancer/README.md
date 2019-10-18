@@ -1,5 +1,6 @@
 ## install and configure haproxy on MAC
 - install haproxy
+
 `brew install haproxy`
 
 localhost:haproxy shining$ brew install haproxy
