@@ -24,3 +24,5 @@
 
 ## System Design
 - [Library Syetem](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
+## Load Balancer
+- [HA Proxy](https://github.com/haproxy/haproxy)
