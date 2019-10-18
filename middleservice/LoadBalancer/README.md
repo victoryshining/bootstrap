@@ -19,4 +19,5 @@ Or, if you don't want/need a background service you can just run:
 - configure haproxy
 
 see configure file example [here](https://gist.github.com/dhavaln/2fed8e1484d516e08a11a20cff795dba)
+see configure file example [here](https://github.com/haproxy/haproxy/tree/master/examples)
 
