@@ -19,8 +19,20 @@ Create Virtual Switch "Primary Virtual Switch"
  Failed to cache ISO: https://storage.googleapis.com/minikube/iso/minikube-v1.4.0.iso: invalid checksum: Error downloading checksum file:
  
  ```
- minikube start --vm-driver hyperv --hyperv-virtual-switch "Primary Virtual Switch" --docker-env=HTTP_PROXY=www-proxy-sin.sg.oracle.com:80 --docker-env=HTTPS_PROXY=www-proxy-sin.sg.oracle.com:80
+ minikube start --vm-driver hyperv --hyperv-virtual-switch "Primary Virtual Switch" --docker-env=HTTP_PROXY=http://www-proxy-sin.sg.oracle.com:80 --docker-env=HTTPS_PROXY=https://www-proxy-sin.sg.oracle.com:80
  ```
+  failed: fetching image: Get https://k8s.gcr.io/v2/
+  
+  see clarification [here](https://github.com/kubernetes/minikube/issues/3860)
+
+on powershell command set below
+``
+Set http_proxy=www-proxy-sin.sg.oracle.com:80
+Set https_proxy=www-proxy-sin.sg.oracle.com:80
+set NO_PROXY=localhost,127.0.0.1
+```
+
+
 
 
 
