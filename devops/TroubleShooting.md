@@ -16,16 +16,16 @@ This error is likely caused by:
         - The kubelet is unhealthy due to a misconfiguration of the node in some way (required cgroups disabled)
         - Either there is no internet connection, or imagePullPolicy is set to "Never",
           so the kubelet cannot pull or find the following control plane images:
-                - k8s.gcr.io/kube-apiserver-amd64:v1.10.0
-                - k8s.gcr.io/kube-controller-manager-amd64:v1.10.0
-                - k8s.gcr.io/kube-scheduler-amd64:v1.10.0
-                - k8s.gcr.io/etcd-amd64:3.1.12 (only if no external etcd endpoints are configured)
+                 k8s.gcr.io/kube-apiserver-amd64:v1.10.0
+                 k8s.gcr.io/kube-controller-manager-amd64:v1.10.0
+                 k8s.gcr.io/kube-scheduler-amd64:v1.10.0
+                 k8s.gcr.io/etcd-amd64:3.1.12 (only if no external etcd endpoints are configured)
 
 If you are on a systemd-powered system, you can try to troubleshoot the error with the following commands:
         - 'systemctl status kubelet'
         - 'journalctl -xeu kubelet'
                                          : running command: sudo /usr/bin/kubeadm init --config /var/lib/kubeadm.yaml --ignore-preflight-errors=DirAvailable--etc-kubernetes-manifests --ignore-preflight-errors=DirAvailable--data --ignore-preflight-errors=FileAvailable--etc-kubernetes-manifests-kube-scheduler.yaml --ignore-preflight-errors=FileAvailable--etc-kubernetes-manifests-kube-apiserver.yaml --ignore-preflight-errors=FileAvailable--etc-kubernetes-manifests-kube-controller-manager.yaml --ignore-preflight-errors=FileAvailable--etc-kubernetes-manifests-etcd.yaml --ignore-preflight-errors=Swap --ignore-preflight-errors=CRI
-.: Process exited with status 1
+Process exited with status 1
 ================================================================================
 An error has occurred. Would you like to opt in to sending anonymized crash
 information to minikube to help prevent future errors?
