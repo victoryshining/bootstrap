@@ -9,7 +9,7 @@ kubectl: https://storage.googleapis.com/kubernetes-release/release/v1.9.0/bin/wi
 2. add d:\k8s to PATH environment
 3. add virtual switch, eg "Primary Virtual Switch"
 4. run command
-`minikube.exe start --registry-mirror=https://registry.docker-cn.com --vm-driver="hyperv"  --hyperv-virtual-switch="Primary Virtual Switch"`
+`minikube.exe start --registry-mirror=https://registry.docker-cn.com --vm-driver="hyperv" --hyperv-virtual-switch="Primary Virtual Switch"`
 
 if any problem during step4,  just try multiple times
 1. minikube delete
