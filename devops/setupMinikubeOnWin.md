@@ -26,11 +26,18 @@ Create Virtual Switch "Primary Virtual Switch"
   see clarification [here](https://github.com/kubernetes/minikube/issues/3860)
 
 on powershell command set below
-``
+```
 Set http_proxy=www-proxy-sin.sg.oracle.com:80
 Set https_proxy=www-proxy-sin.sg.oracle.com:80
 set NO_PROXY=localhost,127.0.0.1
 ```
+
+solution1:
+```
+In china, because of the GFW, you can't pull images from k8s.gcr.io without a VPN. But you can pull the needed images from registry.cn-hangzhou.aliyuncs.com/google_containers and tag them. If the needed images exist on the local system, the starting process will go on even with pulling error. I wrote a shell script that can help you install minikube on Linux OS easily. And you can also make a offline installation package by using the script. The project home is https://github.com/Kingonion/minikube-on-linux
+```
+add one option to 
+minikube start --vm-driver hyperv --hyperv-virtual-switch "Primary Virtual Switch"--image-repository=registry.cn-hangzhou.aliyuncs.com/google_containers
 
 
 
