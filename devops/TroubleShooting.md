@@ -6,6 +6,7 @@ bios中的Intel Virtualization Technology设置成了disable的，重启电脑�
 ## Error starting host: Error getting state for host: machine does not exist
 *solution*:
 原因1：必须是在C盘下运行minikube命令，将命令行切换到C盘再运行。如果还不行，删除/users/{your name}/.minikube目录再重新来一次
+原因2：windows下，必须使用管理员身份来运行cmd
 
 ## minikube start failed
 
