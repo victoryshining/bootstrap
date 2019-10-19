@@ -5,4 +5,5 @@
 ## kubernetes
 - [trouble shooting](https://github.com/kubernetes/kubernetes/issues)
 - [kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/)
-- [install minikube in China](https://kofztl.github.io/blog/2018/07/26/Install-Minikube-with-Aliyun-Image.html)
+- [install minikube(Linux) in China](https://kofztl.github.io/blog/2018/07/26/Install-Minikube-with-Aliyun-Image.html)
+- [Install minikube(winds) in China](https://www.cnblogs.com/shanyou/p/8503839.html)
