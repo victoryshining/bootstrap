@@ -8,8 +8,8 @@ bios中的Intel Virtualization Technology设置成了disable的，重启电脑�
 原因1：必须是在C盘下运行minikube命令，将命令行切换到C盘再运行。如果还不行，删除/users/{your name}/.minikube目录再重新来一次
 
 ## minikube start failed
-Unfortunately, an error has occurred:
-        timed out waiting for the condition
+
+Unfortunately, an error has occurred:        timed out waiting for the condition
 
 This error is likely caused by:
         - The kubelet is not running
@@ -32,3 +32,5 @@ information to minikube to help prevent future errors?
 To opt out of these messages, run the command:
         minikube config set WantReportErrorPrompt false
 ================================================================================
+
+## Error restarting cluster:  restarting kube-proxy: waiting for kube-proxy to be up for configmap update: timed out waiting for the condition
