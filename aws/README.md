@@ -17,6 +17,8 @@
   - [wordpress on eb](https://github.com/aws-samples/eb-php-wordpress)
   - [Jenkins Certified by Bitnami](https://aws.amazon.com/marketplace/pp/B00NNZUF3Q?qid=1571059618476&sr=0-41&ref_=srh_res_product_title) 
   - [Share your thoughts on eb(with db)](https://github.com/aws-samples/eb-demo-php-simple-app)
+- [Lambda](https://docs.aws.amazon.com/lambda/)
+  - [Hello World](https://github.com/awslabs/serverless-application-model/blob/master/examples/apps/hello-world/index.js)
 ## AWS develop
 - [SDK](https://aws.amazon.com/cn/getting-started/tools-sdks)
   - [Java SDK](https://docs.aws.amazon.com/zh_cn/sdk-for-java/v1/developer-guide/getting-started.html)
