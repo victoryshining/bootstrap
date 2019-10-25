@@ -5,6 +5,7 @@
   - [java code example](https://github.com/ShirishkumarBari/LearnRabbitMQ)
 - [Kafka](https://kafka.apache.org/)
   - [Learn](https://github.com/ziwon/kafka-learning)
+- [compare](https://blog.csdn.net/kzadmxz/article/details/99359067)
   
 ## Web Server
 - [Http](http://tomcat.apache.org/)
