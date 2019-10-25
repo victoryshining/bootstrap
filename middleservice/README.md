@@ -3,6 +3,7 @@
   - [learn tool](https://github.com/DyingLight12/Rabbit_Learning)
   - [example](https://github.com/betty200744/rabbitmq-examples)
   - [java code example](https://github.com/ShirishkumarBari/LearnRabbitMQ)
+  - [simple java](https://github.com/littlechaser/rabbitmq)
 - [Kafka](https://kafka.apache.org/)
   - [Learn](https://github.com/ziwon/kafka-learning)
 - [compare](https://blog.csdn.net/kzadmxz/article/details/99359067)
