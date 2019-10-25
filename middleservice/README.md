@@ -4,6 +4,9 @@
   - [example](https://github.com/betty200744/rabbitmq-examples)
   - [java code example](https://github.com/ShirishkumarBari/LearnRabbitMQ)
   - [simple java](https://github.com/littlechaser/rabbitmq)
+  - [rabbitMQctl](https://www.rabbitmq.com/rabbitmqctl.8.html)
+  - Programming on RabbitMQ
+    - [Python with pika](https://pypi.org/project/pika/)
 - [Kafka](https://kafka.apache.org/)
   - [Learn](https://github.com/ziwon/kafka-learning)
 - [compare](https://blog.csdn.net/kzadmxz/article/details/99359067)
