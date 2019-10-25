@@ -19,12 +19,13 @@
   - [Share your thoughts on eb(with db)](https://github.com/aws-samples/eb-demo-php-simple-app)
 - [Lambda](https://docs.aws.amazon.com/lambda/)
   - [Hello World](https://github.com/awslabs/serverless-application-model/blob/master/examples/apps/hello-world/index.js)
+  - [Java libraries](https://github.com/aws/aws-lambda-java-libs)
+  
 ## AWS develop
 - [SDK](https://aws.amazon.com/cn/getting-started/tools-sdks)
   - [Java SDK](https://docs.aws.amazon.com/zh_cn/sdk-for-java/v1/developer-guide/getting-started.html)
     - [Toolkit Eclipse](https://github.com/aws/aws-toolkit-eclipse/releases)
     - [SDK java doc](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
-  - [Examples]
   
 ## VPC
 - [IP address](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
