@@ -7,6 +7,7 @@
   - [rabbitMQctl](https://www.rabbitmq.com/rabbitmqctl.8.html)
   - Programming on RabbitMQ
     - [Python with pika](https://pypi.org/project/pika/)
+    - [Python example](https://github.com/BernhardWenzel/scraping-microservice-java-python-rabbitmq/blob/master/python-scraping-service/worker.py)
 - [Kafka](https://kafka.apache.org/)
   - [Learn](https://github.com/ziwon/kafka-learning)
 - [compare](https://blog.csdn.net/kzadmxz/article/details/99359067)
