@@ -27,6 +27,8 @@
 - [mysql](https://www.mysql.com/downloads/)
 - [mongoDB](https://github.com/ramnes/awesome-mongodb)
   - [shell commands](https://docs.mongodb.com/manual/reference/mongo-shell/)
+- [radis](https://www.runoob.com/redis/redis-tutorial.html)
+  - [commands set](https://www.cnblogs.com/young-z/p/7890797.html)
 
 ## System Design
 - [Library Syetem](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/RMlM3NgjAyR)
