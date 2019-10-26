@@ -13,4 +13,5 @@
 - [production kubernetes](https://kubernetes.io/docs/setup/production-environment)
   - [kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/)
     - [github kops](https://github.com/kubernetes/kops)
+    - [guideline](https://blog.csdn.net/qq_36348557/article/details/79795288)
   
