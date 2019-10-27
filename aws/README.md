@@ -26,6 +26,7 @@
   - [Java SDK](https://docs.aws.amazon.com/zh_cn/sdk-for-java/v1/developer-guide/getting-started.html)
     - [Toolkit Eclipse](https://github.com/aws/aws-toolkit-eclipse/releases)
     - [SDK java doc](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
+  - [Python SDK](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
   
 ## VPC
 - [IP address](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
