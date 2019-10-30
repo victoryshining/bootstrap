@@ -10,6 +10,7 @@
     - [Python example](https://github.com/BernhardWenzel/scraping-microservice-java-python-rabbitmq/blob/master/python-scraping-service/worker.py)
 - [Kafka](https://kafka.apache.org/)
   - [Learn](https://github.com/ziwon/kafka-learning)
+  - [install on windows](https://stackoverflow.com/questions/23115013/how-to-install-kafka-on-windows)
 - [compare](https://blog.csdn.net/kzadmxz/article/details/99359067)
   
 ## Web Server
