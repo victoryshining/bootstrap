@@ -18,24 +18,33 @@ SHOW VARIABLES --
 /* 数据库操作 */ ------------------
 -- 查看当前数据库
     select database();
+    
 -- 显示当前时间、用户名、数据库版本
+
     select now(), user(), version();
+
 -- 创建库
-    create database[ if not exists] 数据库名 数据库选项
+
+create database[ if not exists] 数据库名 数据库选项
+
     数据库选项：
         CHARACTER SET charset_name
         COLLATE collation_name
 -- 查看已有库
+
     show databases[ like 'pattern']
 -- 查看当前库信息
-    show create database 数据库名
+
+        show create database 数据库名
 -- 修改库的选项信息
+
     alter database 库名 选项信息
 -- 删除库
     drop database[ if exists] 数据库名
         同时删除该数据库相关的目录及其目录内容
 
 /* 表的操作 */ ------------------
+
 -- 创建表
     create [temporary] table[ if not exists] [库名.]表名 ( 表的结构定义 )[ 表选项]
         每个字段必须有数据类型
@@ -43,6 +52,7 @@ SHOW VARIABLES --
         temporary 临时表，会话结束时表自动消失
         对于字段的定义：
             字段名 数据类型 [NOT NULL | NULL] [DEFAULT default_value] [AUTO_INCREMENT] [UNIQUE [KEY] | [PRIMARY] KEY] [COMMENT 'string']
+
 -- 表选项
     -- 字符集
         CHARSET = charset_name
