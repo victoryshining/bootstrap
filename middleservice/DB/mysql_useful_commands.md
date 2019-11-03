@@ -55,9 +55,12 @@ create database[ if not exists] 数据库名 数据库选项
 
 -- 表选项
     -- 字符集
+    
         CHARSET = charset_name
         如果表没有设定，则使用数据库字符集
+        
     -- 存储引擎
+    
         ENGINE = engine_name    
         表在管理数据时采用的不同的数据结构，结构不同会导致处理方式、提供的特性操作等不同
         常见的引擎：InnoDB MyISAM Memory/Heap BDB Merge Example CSV MaxDB Archive
@@ -66,21 +69,30 @@ create database[ if not exists] 数据库名 数据库选项
         InnoDB表文件含义：.frm表定义，表空间数据和日志文件
         SHOW ENGINES -- 显示存储引擎的状态信息
         SHOW ENGINE 引擎名 {LOGS|STATUS} -- 显示存储引擎的日志或状态信息
+        
     -- 数据文件目录
         DATA DIRECTORY = '目录'
+    
     -- 索引文件目录
         INDEX DIRECTORY = '目录'
+    
     -- 表注释
         COMMENT = 'string'
+    
     -- 分区选项
         PARTITION BY ... (详细见手册)
+
 -- 查看所有表
+
     SHOW TABLES[ LIKE 'pattern']
     SHOW TABLES FROM 表名
+
 -- 查看表机构
+
     SHOW CREATE TABLE 表名    （信息更详细）
     DESC 表名 / DESCRIBE 表名 / EXPLAIN 表名 / SHOW COLUMNS FROM 表名 [LIKE 'PATTERN']
     SHOW TABLE STATUS [FROM db_name] [LIKE 'pattern']
+
 -- 修改表
     -- 修改表本身的选项
         ALTER TABLE 表名 表的选项
