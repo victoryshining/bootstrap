@@ -12,6 +12,8 @@
     Gmail SMTP port (SSL): 465
     
     Gmail SMTP TLS/SSL required: Yes
+## circleCI
+- [Get on in Chinese](https://www.jianshu.com/p/36af6af74dfc)
 ## setup linux virtual box
 - [Linux ISO file](https://www.linuxlookup.com/linux_iso)
 - [Install on Windows](https://blog.csdn.net/bruceRong/article/details/84942225)
