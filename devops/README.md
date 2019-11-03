@@ -2,10 +2,15 @@
 1. install Jenkins on EC2
 2. Configure Jenkins
     Gmail SMTP server address: smtp.gmail.com
+    
     Gmail SMTP username: engineplan.chinaunicom@gmail.com
+    
     Gmail SMTP password: HDcRQXPB>pG\RP=*
+    
     Gmail SMTP port (TLS): 587
+    
     Gmail SMTP port (SSL): 465
+    
     Gmail SMTP TLS/SSL required: Yes
 ## setup linux virtual box
 - [Linux ISO file](https://www.linuxlookup.com/linux_iso)
