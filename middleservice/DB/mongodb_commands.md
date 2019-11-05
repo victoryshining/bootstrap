@@ -10,3 +10,6 @@ db.student.find().sort({"name":1})
  ## full text index
  db.student.ensureIndex({address:"text"})
  db.student.find({$text:{$search:"beijing"})
+ 
+ ## db
+ https://www.runoob.com/mongodb/mongodb-relationships.html
