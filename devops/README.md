@@ -14,6 +14,9 @@
     Gmail SMTP TLS/SSL required: Yes
 ## circleCI
 - [Get on in Chinese](https://www.jianshu.com/p/36af6af74dfc)
+ ## Docker
+ - [Docker course in Chinese](https://www.runoob.com/docker/docker-tutorial.html)
+ - [Build Image](https://github.com/docker/labs/blob/master/developer-tools/java/chapters/ch03-build-image.adoc)
 ## setup linux virtual box
 - [Linux ISO file](https://www.linuxlookup.com/linux_iso)
 - [Install on Windows](https://blog.csdn.net/bruceRong/article/details/84942225)
@@ -30,7 +33,4 @@
   - [kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/)
     - [github kops](https://github.com/kubernetes/kops)
     - [guideline](https://blog.csdn.net/qq_36348557/article/details/79795288)
-    
- ## docker
- - [Docker course in Chinese](https://www.runoob.com/docker/docker-tutorial.html)
- - [Build Image](https://github.com/docker/labs/blob/master/developer-tools/java/chapters/ch03-build-image.adoc)
+
