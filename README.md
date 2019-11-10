@@ -48,6 +48,7 @@ github resource index 学习资源索引
 - [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 
 ## Arch&Design架构设计
+- [系统设计](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture)
 - [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [REST](https://github.com/marmelab/awesome-rest)
