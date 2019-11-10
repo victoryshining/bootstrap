@@ -14,6 +14,8 @@
     Gmail SMTP TLS/SSL required: Yes
 ## circleCI
 - [Get on in Chinese](https://www.jianshu.com/p/36af6af74dfc)
+ ## haproxy
+ - [config example](https://github.com/haproxy/haproxy/blob/master/examples/content-sw-sample.cfg)
  ## Docker
  - [Docker course in Chinese](https://www.runoob.com/docker/docker-tutorial.html)
  - [Build Image](https://github.com/docker/labs/blob/master/developer-tools/java/chapters/ch03-build-image.adoc)
