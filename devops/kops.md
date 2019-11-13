@@ -1,11 +1,12 @@
-1. aws s3api create-bucket --bucket cluster.k8s.local.sheng-state-store --region us-east-2 --create-bucket-configuration LocationConstraint=us-east-2
+1. aws s3api create-bucket --bucket sheng.cluster.k8s.local-state-store --region us-east-2 --create-bucket-configuration LocationConstraint=us-east-2
 {
-    "Location": "http://cluster.k8s.local.sheng-state-store.s3.amazonaws.com/"
+    "Location": "http://sheng.cluster.k8s.local-state-store.s3.amazonaws.com/"
 }
 
 2. (windows需要加到环境变量）
 export NAME=sheng.cluster.k8s.local
-export  KOPS_STATE_STORE=s3://cluster.k8s.local.sheng-state-store 
+
+export  KOPS_STATE_STORE=s3://sheng.cluster.k8s.local-state-store 
 
 3. powershell run ssh-keygen
 4. kops create cluster \
