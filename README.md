@@ -147,6 +147,7 @@ github resource index 学习资源索引
 	- [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
 	- [by @unbalancedparentheses](https://github.com/unbalancedparentheses/spawnedshelter)
 - [Go](https://github.com/avelino/awesome-go)
+- [Go Chinese](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 - [Go Patterns](https://github.com/tmrts/go-patterns)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Java](https://github.com/akullpp/awesome-java)
